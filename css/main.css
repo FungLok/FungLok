@@ -236,7 +236,7 @@ body section#food .grid-list .center {
     align-self: center;
 }
 body section#food .grid-list .product-grid {
-    grid-template-columns: 40px auto 90px 90px;
+    grid-template-columns: 40px auto 90px;
     display: grid;
 }
 body section#food .grid-list .veg-item,
